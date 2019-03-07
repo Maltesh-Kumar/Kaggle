@@ -1,1 +1,3 @@
 # Kaggle
+This repository will contain Kaggle kernels, competition and much more, so stay tuned...
+<br>Link: https://www.kaggle.com/malteshkumar</br>
